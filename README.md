@@ -1,6 +1,11 @@
 # MHPC.ML.Group.Project.Team.2
 Repository for final assignment of course P2.7_ML_intro_24_25, Student Team number 2
 
+## Instructions
+Copy the input data files for the assignment in the data folder, then run the jupiter notebook where you can find comments and analysis of the results in markdown cells.
+Important: some input files were committed on the course repository and should be copied from there, the other dataset files are available on cluster.
+
+cuda libraries are necessary only for the regression part, data exploration and clustering do not need them.
 
 ## Tasks
 
