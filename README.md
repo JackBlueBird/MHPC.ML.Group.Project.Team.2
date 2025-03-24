@@ -5,6 +5,7 @@ Repository for final assignment of course P2.7_ML_intro_24_25, Student Team numb
 ## Tasks
 
 1. Data Pre-Processing & Regression Pipeline
+    (Ludwig Asturias)
 
     Load the data from the .npy and information files.
     Implement the NaN handling (median replacement) for each spectrum.
@@ -17,6 +18,7 @@ Repository for final assignment of course P2.7_ML_intro_24_25, Student Team numb
         Summarize the MSE results in a table.
 
 2. Dimensionality Reduction and Visualization
+    (Giacomo Zuccarino)
 
     Apply PCA to the spectra_withgalah dataset:
         Plot the explained variance ratio.
@@ -26,6 +28,7 @@ Repository for final assignment of course P2.7_ML_intro_24_25, Student Team numb
     (Optional) Explore additional techniques like t-SNE or UMAP if time permits.
 
 3. Clustering & Anomaly Detection
+    (André Feitosa Benevides)
 
     Using the PCA-reduced space from spectraNOgal:
         Run a clustering algorithm (e.g. K-Means or DBSCAN).
